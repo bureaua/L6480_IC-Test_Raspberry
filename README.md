@@ -1,4 +1,4 @@
-# TechDay Step Motor Driver
+# L6480 IC (Step Motor Driver) test  
 
 ## About
 
